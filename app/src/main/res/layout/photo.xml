@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="250sp"
+        android:layout_height="250sp"
+        android:id="@+id/ivReturnedPic"
+        android:src="@android:drawable/sym_def_app_icon"
+        android:layout_gravity="center"/>
+
+    <ImageButton
+        android:layout_width="125sp"
+        android:layout_height="wrap_content"
+        android:id="@+id/ibTakePic"
+        android:src="@android:drawable/sym_def_app_icon"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:layout_width="125sp"
+        android:layout_height="wrap_content"
+        android:text="Set Wallpaper"
+        android:id="@+id/bSetWall"
+        android:layout_gravity="center"/>
+
+</LinearLayout>

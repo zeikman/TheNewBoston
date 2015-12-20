@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">The New Boston</string>
+    <string name="hello">Hello World!</string>
+    <string name="add_one">Add one</string>
+    <string name="minus_one">Subtract one</string>
+    <string name="total_text">Your total is</string>
+    <string name="et_hint">Type a Command</string>
+</resources>
