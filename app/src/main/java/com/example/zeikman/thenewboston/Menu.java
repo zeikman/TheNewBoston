@@ -26,7 +26,8 @@ public class Menu extends ListActivity {
             "SoundStuff",
             "Slider",
             "Tabs",
-            "SimpleBrowser"
+            "SimpleBrowser",
+            "Flipper"
     };
 
     @Override
