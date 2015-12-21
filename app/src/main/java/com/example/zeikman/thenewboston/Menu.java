@@ -29,7 +29,8 @@ public class Menu extends ListActivity {
             "SimpleBrowser",
             "Flipper",
             "SharedPrefs",
-            "InternalData"
+            "InternalData",
+            "ExternalData"
     };
 
     @Override
