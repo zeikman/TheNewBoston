@@ -30,7 +30,8 @@ public class Menu extends ListActivity {
             "Flipper",
             "SharedPrefs",
             "InternalData",
-            "ExternalData"
+            "ExternalData",
+            "SQLiteExample"
     };
 
     @Override
