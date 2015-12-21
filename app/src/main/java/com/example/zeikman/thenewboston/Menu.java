@@ -25,7 +25,8 @@ public class Menu extends ListActivity {
             "GFXSurface",
             "SoundStuff",
             "Slider",
-            "Tabs"
+            "Tabs",
+            "SimpleBrowser"
     };
 
     @Override
