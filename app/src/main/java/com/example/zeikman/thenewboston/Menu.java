@@ -27,7 +27,8 @@ public class Menu extends ListActivity {
             "Slider",
             "Tabs",
             "SimpleBrowser",
-            "Flipper"
+            "Flipper",
+            "SharedPrefs"
     };
 
     @Override
